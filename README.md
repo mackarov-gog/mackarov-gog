@@ -53,11 +53,11 @@
 - **Backend**: Python (Flask/Django) + SQL
 - **Frontend**: HTML, CSS, JS
 
-### Программа "BPMN Diagram Generator"
+### [Программа "BPMN Diagram Generator](https://github.com/mackarov-gog/BPMN-Diagram-Generator)"
 *Реализовал программу для преобразования из JSON в BPMN-диаграмму*
 - **Технологии**: Python
-- [Репозиторий с проектом](https://github.com/mackarov-gog/BPMN-Diagram-Generator)
-- 
+
+  
 
 ## 🌐 ВЕБ-ПРОЕКТЫ
 
