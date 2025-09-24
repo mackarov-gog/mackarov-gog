@@ -48,7 +48,7 @@
 *Разработал AI-ассистента для генерации BPMN-диаграмм из текстового описания*
 - **Технологии**: Python, NLP, графические библиотеки
 
-### Система «Умный дом» (backend + frontend)
+### [Система «Умный дом» (backend + frontend)](https://github.com/mackarov-gog/ESP_Home_System/tree/main)
 *Реализовал систему управления устройствами с веб-интерфейсом*
 - **Backend**: Python (Flask/Django) + SQL
 - **Frontend**: HTML, CSS, JS
